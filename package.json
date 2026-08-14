@@ -1,0 +1,13 @@
+{
+  "name": "hybrid-selfheal-javascript",
+  "version": "1.0.0",
+  "description": "Playwright Test framework with heuristic self-healing locators, tested against the-internet.herokuapp.com",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.47.0"
+  }
+}
