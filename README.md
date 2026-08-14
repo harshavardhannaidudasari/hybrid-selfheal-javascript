@@ -6,6 +6,8 @@ public site [the-internet.herokuapp.com](https://the-internet.herokuapp.com). Th
 port of a 4-language (Java / JavaScript / TypeScript / Python) reference implementation; the design and
 scoring algorithm are identical across all four ports.
 
+![Self-healing report: summary stats and a healed username_field locator with before/after screenshots](docs/report-preview.jpg)
+
 ## What "self-healing" means here
 
 There is **no LLM, no API key, and no network calls beyond the page under test.** Healing is a small,
