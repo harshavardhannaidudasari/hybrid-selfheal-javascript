@@ -2,9 +2,9 @@
   "run": {
     "project": "hybrid-selfheal-javascript",
     "baseUrl": "https://the-internet.herokuapp.com",
-    "startedAt": "2026-08-14T11:36:17.664Z",
-    "finishedAt": "2026-08-14T11:37:11.522Z",
-    "durationSeconds": 53.86
+    "startedAt": "2026-08-15T14:54:49.353Z",
+    "finishedAt": "2026-08-15T14:55:26.925Z",
+    "durationSeconds": 37.57
   },
   "tests": [
     {
@@ -19,9 +19,9 @@
           "healedSelector": "button:has-text(\"Start\")",
           "confidence": 0.4,
           "candidatesConsidered": 1,
-          "screenshotBefore": "screenshots/start-button-1786707392980-831308__before.png",
-          "screenshotAfter": "screenshots/start-button-1786707392980-831308__after.png",
-          "timestamp": "2026-08-14T11:36:33.161Z"
+          "screenshotBefore": "screenshots/start-button-1786805694871-844667__before.png",
+          "screenshotAfter": "screenshots/start-button-1786805694871-844667__after.png",
+          "timestamp": "2026-08-15T14:54:55.005Z"
         },
         {
           "locatorName": "finish_message",
@@ -31,9 +31,9 @@
           "healedSelector": "h4:has-text(\"Hello World!\")",
           "confidence": 0.4,
           "candidatesConsidered": 2,
-          "screenshotBefore": "screenshots/finish-message-1786707394735-435586__before.png",
-          "screenshotAfter": "screenshots/finish-message-1786707394735-435586__after.png",
-          "timestamp": "2026-08-14T11:36:34.845Z"
+          "screenshotBefore": "screenshots/finish-message-1786805696553-334773__before.png",
+          "screenshotAfter": "screenshots/finish-message-1786805696553-334773__after.png",
+          "timestamp": "2026-08-15T14:54:56.665Z"
         }
       ]
     },
@@ -49,9 +49,9 @@
           "healedSelector": "#username",
           "confidence": 0.5,
           "candidatesConsidered": 2,
-          "screenshotBefore": "screenshots/username-field-1786707404262-649453__before.png",
-          "screenshotAfter": "screenshots/username-field-1786707404262-649453__after.png",
-          "timestamp": "2026-08-14T11:36:44.435Z"
+          "screenshotBefore": "screenshots/username-field-1786805705182-75807__before.png",
+          "screenshotAfter": "screenshots/username-field-1786805705182-75807__after.png",
+          "timestamp": "2026-08-15T14:55:05.316Z"
         },
         {
           "locatorName": "password_field",
@@ -61,9 +61,9 @@
           "healedSelector": "#password",
           "confidence": 0.5,
           "candidatesConsidered": 2,
-          "screenshotBefore": "screenshots/password-field-1786707405997-273437__before.png",
-          "screenshotAfter": "screenshots/password-field-1786707405997-273437__after.png",
-          "timestamp": "2026-08-14T11:36:46.182Z"
+          "screenshotBefore": "screenshots/password-field-1786805706834-494476__before.png",
+          "screenshotAfter": "screenshots/password-field-1786805706834-494476__after.png",
+          "timestamp": "2026-08-15T14:55:06.967Z"
         },
         {
           "locatorName": "login_button",
@@ -73,9 +73,9 @@
           "healedSelector": "button:has-text(\"Login\")",
           "confidence": 0.55,
           "candidatesConsidered": 1,
-          "screenshotBefore": "screenshots/login-button-1786707407707-402199__before.png",
-          "screenshotAfter": "screenshots/login-button-1786707407707-402199__after.png",
-          "timestamp": "2026-08-14T11:36:47.827Z"
+          "screenshotBefore": "screenshots/login-button-1786805708491-571083__before.png",
+          "screenshotAfter": "screenshots/login-button-1786805708491-571083__after.png",
+          "timestamp": "2026-08-15T14:55:08.600Z"
         },
         {
           "locatorName": "flash_success_message",
@@ -85,9 +85,9 @@
           "healedSelector": "#flash",
           "confidence": 0.49,
           "candidatesConsidered": 9,
-          "screenshotBefore": "screenshots/flash-success-message-1786707409954-767557__before.png",
-          "screenshotAfter": "screenshots/flash-success-message-1786707409954-767557__after.png",
-          "timestamp": "2026-08-14T11:36:50.081Z"
+          "screenshotBefore": "screenshots/flash-success-message-1786805710707-688671__before.png",
+          "screenshotAfter": "screenshots/flash-success-message-1786805710707-688671__after.png",
+          "timestamp": "2026-08-15T14:55:10.848Z"
         }
       ]
     },
@@ -103,9 +103,9 @@
           "healedSelector": "#username",
           "confidence": 0.5,
           "candidatesConsidered": 2,
-          "screenshotBefore": "screenshots/username-field-1786707418913-678345__before.png",
-          "screenshotAfter": "screenshots/username-field-1786707418913-678345__after.png",
-          "timestamp": "2026-08-14T11:36:59.060Z"
+          "screenshotBefore": "screenshots/username-field-1786805715986-286369__before.png",
+          "screenshotAfter": "screenshots/username-field-1786805715986-286369__after.png",
+          "timestamp": "2026-08-15T14:55:16.115Z"
         },
         {
           "locatorName": "password_field",
@@ -115,9 +115,9 @@
           "healedSelector": "#password",
           "confidence": 0.5,
           "candidatesConsidered": 2,
-          "screenshotBefore": "screenshots/password-field-1786707420580-813016__before.png",
-          "screenshotAfter": "screenshots/password-field-1786707420580-813016__after.png",
-          "timestamp": "2026-08-14T11:37:00.712Z"
+          "screenshotBefore": "screenshots/password-field-1786805717636-76615__before.png",
+          "screenshotAfter": "screenshots/password-field-1786805717636-76615__after.png",
+          "timestamp": "2026-08-15T14:55:17.764Z"
         },
         {
           "locatorName": "login_button",
@@ -127,9 +127,9 @@
           "healedSelector": "button:has-text(\"Login\")",
           "confidence": 0.55,
           "candidatesConsidered": 1,
-          "screenshotBefore": "screenshots/login-button-1786707422239-910566__before.png",
-          "screenshotAfter": "screenshots/login-button-1786707422239-910566__after.png",
-          "timestamp": "2026-08-14T11:37:02.361Z"
+          "screenshotBefore": "screenshots/login-button-1786805719281-224288__before.png",
+          "screenshotAfter": "screenshots/login-button-1786805719281-224288__after.png",
+          "timestamp": "2026-08-15T14:55:19.398Z"
         },
         {
           "locatorName": "flash_error_message",
@@ -139,9 +139,9 @@
           "healedSelector": "#flash",
           "confidence": 0.49,
           "candidatesConsidered": 13,
-          "screenshotBefore": "screenshots/flash-error-message-1786707425296-242275__before.png",
-          "screenshotAfter": "screenshots/flash-error-message-1786707425296-242275__after.png",
-          "timestamp": "2026-08-14T11:37:05.477Z"
+          "screenshotBefore": "screenshots/flash-error-message-1786805721512-657548__before.png",
+          "screenshotAfter": "screenshots/flash-error-message-1786805721512-657548__after.png",
+          "timestamp": "2026-08-15T14:55:21.650Z"
         }
       ]
     },
@@ -157,9 +157,9 @@
           "healedSelector": null,
           "confidence": 0.12,
           "candidatesConsidered": 1,
-          "screenshotBefore": "screenshots/logout-button-before-login-1786707431310-548112__before.png",
+          "screenshotBefore": "screenshots/logout-button-before-login-1786805726749-4821__before.png",
           "screenshotAfter": null,
-          "timestamp": "2026-08-14T11:37:11.378Z"
+          "timestamp": "2026-08-15T14:55:26.817Z"
         }
       ]
     }
