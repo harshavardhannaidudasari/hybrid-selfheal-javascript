@@ -1,5 +1,7 @@
 # hybrid-selfheal-javascript
 
+[![CI](https://github.com/harshavardhannaidudasari/hybrid-selfheal-javascript/actions/workflows/ci.yml/badge.svg)](https://github.com/harshavardhannaidudasari/hybrid-selfheal-javascript/actions/workflows/ci.yml)
+
 An official [Playwright Test](https://playwright.dev/docs/intro) (`@playwright/test`, plain JavaScript)
 framework with a heuristic **self-healing locator engine**, exercised end-to-end against the live
 public site [the-internet.herokuapp.com](https://the-internet.herokuapp.com). This is the JavaScript
